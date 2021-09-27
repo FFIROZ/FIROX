@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "bot oficial creado por Firoz",
   "main": "firox.js",
-  "scripts": {.
+  "scripts": {"."
   "start": "firox.js"
   },
   "dependencies": {"npm install" 
