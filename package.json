@@ -1,0 +1,12 @@
+{
+  "name": "Firox",
+  "version": "1.0.0",
+  "description": "bot oficial creado por Firoz",
+  "main": "firox.js",
+  "scripts": {
+  "start": "firox.js"
+  },
+  "dependencies": {" npm install "
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
