@@ -4,9 +4,9 @@
   "description": "bot oficial creado por Firoz",
   "main": "firox.js",
   "scripts": {"."
-  "start": "firox.js"
+  "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {"npm install" 
     "@adiwajshing/baileys": "^3.5.0"
-  }
+  },  "author": "FIROZ"
 }
