@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "description": "bot oficial creado por Firoz",
   "main": "firox.js",
-  "scripts": {
-  "start": "node firox.js"
+  "scripts": 
+  "start" "node firox.js"
   },
   "dependencies":  
     "@adiwajshing/baileys" "^3.4.1"
