@@ -6,7 +6,7 @@
   "scripts": {
   "start": "firox.js"
   },
-  "dependencies": {npm install 
+  "dependencies": {"npm install" 
     "@adiwajshing/baileys": "^3.4.1"
   }
 }
