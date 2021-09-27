@@ -5,7 +5,6 @@
   "main": "firox.js",
   "scripts": 
   "start" "node firox.js"
-  },
-  "dependencies":  
+  "dependencies"  
     "@adiwajshing/baileys" "^3.4.1"
 }
