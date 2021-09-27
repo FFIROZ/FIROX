@@ -7,6 +7,6 @@
   "start": "firox.js"
   },
   "dependencies": {"npm install" 
-    "@adiwajshing/baileys": "^3.4.1"
+    "@adiwajshing/baileys": "^3.5.0"
   }
 }
