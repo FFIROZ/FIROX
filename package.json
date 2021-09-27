@@ -4,7 +4,7 @@
   "description": "bot oficial creado por Firoz",
   "main": "firox.js",
   "scripts": {
-    "start": "node firox.js"
+  "start": "node firox.js"
   },
   "dependencies": {"npm install" 
     "@adiwajshing/baileys": "^3.5.0"
